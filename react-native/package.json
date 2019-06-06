@@ -1,0 +1,9 @@
+{
+  "name": "@xoi/eslint-config-react-native",
+  "version": "1.0.0",
+  "description": "ESLint config for React Native apps by XOi Technologies",
+  "main": "index.js",
+  "repository": "https://github.com/xoeye/eslint-config",
+  "author": "Matt Hamil <mhamil@xoi.io>",
+  "license": "MIT"
+}

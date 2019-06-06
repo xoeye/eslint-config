@@ -1,0 +1,9 @@
+{
+  "name": "@xoi/eslint-config-react",
+  "version": "1.0.0",
+  "description": "ESLint config for React apps by XOi Technologies",
+  "main": "index.js",
+  "repository": "https://github.com/xoeye/eslint-config",
+  "author": "Matt Hamil <mhamil@xoi.io>",
+  "license": "MIT"
+}
