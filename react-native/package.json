@@ -2,8 +2,34 @@
   "name": "@xoi/eslint-config-react-native",
   "version": "1.0.0",
   "description": "ESLint config for React Native apps by XOi Technologies",
-  "main": "index.js",
-  "repository": "https://github.com/xoeye/eslint-config",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xoeye/eslint-config"
+  },
   "author": "Matt Hamil <mhamil@xoi.io>",
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://github.com/xoeye/eslint-config",
+  "bugs": {
+    "url": "https://github.com/xoeye/eslint-config/issues"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "linter",
+    "config",
+    "xoi",
+    "javascript",
+    "es2015",
+    "es2016",
+    "es2017",
+    "es2018",
+    "esnext"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">= 8"
+  },
+  "dependencies": {
+    "@xoi/eslint-config-react": "^1.0.0"
+  }
 }
