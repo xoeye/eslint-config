@@ -10,7 +10,7 @@ This module is distributed via [`npm`](https://docs.npmjs.com/cli/npm) which is 
 yarn add -D @xoi/eslint-config-react
 ```
 
-> This package has peer dependencies. Please make sure you have those installed as well.
+This package has peer dependencies. Please make sure you have those installed as well.
 
 ```sh
 yarn add -D babel-eslint@^10.0.1 \
