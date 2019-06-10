@@ -4,6 +4,9 @@ module.exports = {
   rules: {
     // #region Potential Errors
 
+    // Define types to avoid 'no-undef' errors
+    'flowtype/define-flow-type': 'warn',
+
     // No duplicate keys within a type
     'flowtype/no-dupe-keys': 'error',
 

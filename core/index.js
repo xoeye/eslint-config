@@ -4,6 +4,7 @@
  */
 module.exports = {
   extends: [
+    'airbnb',
     './rules/best-practices',
     './rules/flowtype',
     './rules/import',

@@ -12,6 +12,8 @@ module.exports = {
     'react/jsx-filename-extension': ['error', { extensions: ['.js', '.tsx'] }],
     // Future-proofing to prevent reliance on to-be-deprecated lifecycle hooks
     // or unstable APIs
-    'react/no-unsafe': 'error'
+    'react/no-unsafe': 'error',
+    'react/no-unused-prop-types': 'error',
+    'react/no-unused-state': 'error',
   }
 }

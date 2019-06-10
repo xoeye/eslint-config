@@ -7,7 +7,13 @@ module.exports = {
      * @todo
      *   Remove console.logs or migrate to logger module
      */
-    'no-console': 'warn'
+    'no-console': 'warn',
+    
+    // Allow for functions to implicitly return undefined
+    'consistent-return': 'off',
+
+    // Allow for function hoisting
+    'no-use-before-define': ['error', { functions: false }],
   },
   overrides: [
     {
