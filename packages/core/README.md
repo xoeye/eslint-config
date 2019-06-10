@@ -1,5 +1,9 @@
 ## @xoi/eslint-config-core
 
+[![CircleCI](https://circleci.com/gh/xoeye/eslint-config.svg?style=svg)](https://circleci.com/gh/xoeye/eslint-config)
+![Version](https://img.shields.io/npm/v/@xoi/eslint-config-core.svg)
+![License](https://img.shields.io/npm/l/@xoi/eslint-config-core.svg)
+
 An opinionated, framework-agnostic ESLint config
 
 ## Installation

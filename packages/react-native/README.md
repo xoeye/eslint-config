@@ -1,5 +1,9 @@
 ## @xoi/eslint-config-react-native
 
+[![CircleCI](https://circleci.com/gh/xoeye/eslint-config.svg?style=svg)](https://circleci.com/gh/xoeye/eslint-config)
+![Version](https://img.shields.io/npm/v/@xoi/eslint-config-react-native.svg)
+![License](https://img.shields.io/npm/l/@xoi/eslint-config-react-native.svg)
+
 An ESLint config for React Native apps
 
 ## Installation

@@ -1,5 +1,9 @@
 ## XOi ESLint Config
 
+[![CircleCI](https://circleci.com/gh/xoeye/eslint-config.svg?style=svg)](https://circleci.com/gh/xoeye/eslint-config)
+![License](https://img.shields.io/npm/l/@xoi/eslint-config-core.svg)
+
+
 A monorepo for ESLint configurations for projects by XOi Technologies
 
 ### Table of Contents
