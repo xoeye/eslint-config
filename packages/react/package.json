@@ -1,6 +1,6 @@
 {
   "name": "@xoi/eslint-config-react",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ESLint config for React apps by XOi Technologies",
   "author": "Matt Hamil <mhamil@xoi.io>",
   "license": "MIT",
