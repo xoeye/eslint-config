@@ -27,9 +27,11 @@ yarn add -D babel-eslint@^10.0.1 \
 
 ```js
 module.exports = {
-  
+  extends: '@xoi/eslint-config-core',
+  rules: { /* overrides and additional rules */ }  
 }
 ```
 
 ## Contributing
 
+TODO
