@@ -1,4 +1,4 @@
 {
   "private": true,
-  "workspaces": ["core", "react", "react-native"]
+  "workspaces": ["packages/*"]
 }
