@@ -2,10 +2,13 @@
   "name": "@xoi/prettier-config",
   "version": "1.0.0",
   "description": "Prettier configuration for XOi Technologies",
-  "homepage": "https://github.com/xoeye/eslint-config",
-  "repository": "https://github.com/xoeye/eslint-config",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xoeye/eslint-config"
+  },
   "author": "Matt Hamil <mhamil@xoi.io>",
   "license": "MIT",
+  "homepage": "https://github.com/xoeye/eslint-config",
   "bugs": {
     "url": "https://github.com/xoeye/eslint-config/issues"
   },
