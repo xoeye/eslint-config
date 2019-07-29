@@ -40,7 +40,7 @@ module.exports = {
 > .prettierrc.js
 
 ```js
-module.exports = require('@xoi/prettier-config')
+module.exports = require('@xoi/prettier-config/prettier.config')
 ```
 
 ## Editor Integration
