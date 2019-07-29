@@ -18,7 +18,7 @@ This package has peer dependencies. Please make sure you have those installed as
 
 ```sh
 yarn add -D babel-eslint@^10.0.2 \
-  eslint@^^6.1.0 \
+  eslint@^6.1.0 \
   eslint-plugin-import@^2.18.2 \
 ```
 
