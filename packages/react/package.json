@@ -30,7 +30,7 @@
     "node": ">= 8"
   },
   "dependencies": {
-    "@xoi/eslint-config-core": "^1.0.0",
+    "@xoi/eslint-config-core": "^2.0.0",
     "eslint-plugin-jsx-a11y": "^6.2.3",
     "eslint-plugin-react": "^7.14.3"
   },
