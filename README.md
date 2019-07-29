@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/npm/l/@xoi/eslint-config-core.svg)
 
 
-A monorepo for ESLint configurations for projects by XOi Technologies
+A monorepo for ESLint configurations for projects by [XOi Technologies](https://xoi.io)
 
 ### Table of Contents
 
