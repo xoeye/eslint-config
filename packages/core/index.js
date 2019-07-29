@@ -4,11 +4,14 @@
  */
 module.exports = {
   extends: [
-    'airbnb',
     './rules/best-practices',
+    './rules/errors',
+    './rules/es6',
     './rules/flowtype',
     './rules/import',
-    './rules/style'
+    './rules/strict',
+    './rules/style',
+    './rules/variables'
   ].map(require.resolve),
   rules: {}
 }
