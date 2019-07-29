@@ -1,5 +1,5 @@
 {
-  "name": "@xoeye/eslint-config-core",
+  "name": "@xoi/eslint-config-core",
   "version": "2.0.0",
   "description": "Framework agnostic ESLint config maintained by XOi Technologies",
   "repository": {
