@@ -6,6 +6,8 @@
 
 An opinionated, framework-agnostic ESLint config
 
+Inspired by [Airbnb's JavaScript style guide](https://github.com/airbnb/javascript) and [Formidable Labs's ESLint config](https://github.com/FormidableLabs/eslint-config-formidable).
+
 ## Installation
 
 This module is distributed via [`npm`](https://docs.npmjs.com/cli/npm) which is bundled with [`node`](https://nodejs.org/) and should be installed as one of your project's `devDependencies`:
