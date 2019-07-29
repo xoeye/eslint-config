@@ -30,13 +30,11 @@
     "node": ">= 8"
   },
   "dependencies": {
-    "@xoi/eslint-config-core": "^1.0.0"
+    "@xoi/eslint-config-core": "^1.0.0",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-react": "^7.14.3"
   },
   "peerDependencies": {
-    "babel-eslint": "^10.0.1",
-    "eslint": "^5.16.0",
-    "eslint-plugin-import": "^2.17.3",
-    "eslint-plugin-jsx-a11y": "^6.2.1",
-    "eslint-plugin-react": "^7.13.0"
+    "eslint": "^6.1.0"
   }
 }
