@@ -12,6 +12,7 @@ A monorepo for ESLint configurations for projects by [XOi Technologies](https://
 - [@xoi/eslint-config-core](https://github.com/xoeye/eslint-config/tree/master/packages/core)
 - [@xoi/eslint-config-react](https://github.com/xoeye/eslint-config/tree/master/packages/react)
 - [@xoi/eslint-config-react-native](https://github.com/xoeye/eslint-config/tree/master/packages/react-native)
+- [@xoi/prettier-config](https://github.com/xoeye/eslint-config/tree/master/packages/prettier)
 
 ### Join the Team
 
