@@ -1,0 +1,43 @@
+{
+  "name": "@xoi/prettier-config",
+  "version": "1.0.0",
+  "description": "Prettier configuration for XOi Technologies",
+  "homepage": "https://github.com/xoeye/eslint-config",
+  "repository": "https://github.com/xoeye/eslint-config",
+  "author": "Matt Hamil <mhamil@xoi.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xoeye/eslint-config/issues"
+  },
+  "keywords": [
+    "prettier",
+    "prettierconfig",
+    "eslint",
+    "eslintconfig",
+    "linter",
+    "config",
+    "xoi",
+    "javascript",
+    "es2015",
+    "es2016",
+    "es2017",
+    "es2018",
+    "esnext"
+  ],
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "prettier.config.js"
+  ],
+  "engines": {
+    "node": ">= 8"
+  },
+  "dependencies": {
+    "eslint-config-prettier": "^6.0.0",
+    "eslint-plugin-prettier": "^3.1.0"
+  },
+  "peerDependencies": {
+    "eslint": "^6.1.0",
+    "prettier": "^1.18.2"
+  }
+}
