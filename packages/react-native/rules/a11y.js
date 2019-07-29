@@ -1,5 +1,6 @@
 /**
  * Accessibility rules for React Native
+ * https://github.com/FormidableLabs/eslint-plugin-react-native-a11y
  */
 module.exports = {
   plugins: ['react-native-a11y'],
