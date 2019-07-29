@@ -31,6 +31,10 @@ module.exports = {
 }
 ```
 
+## Editor Integration
+
+ESLint can be integrated with various editors. See the [Integrations](https://eslint.org/docs/user-guide/integrations) page in the ESLint documentation for details
+
 ## Contributing
 
 Open an [issue](https://github.com/xoeye/eslint-config/issues/new) or create a [pull request](https://github.com/xoeye/eslint-config/pulls)
