@@ -37,4 +37,4 @@ module.exports = {
 
 ## Contributing
 
-TODO
+Open an [issue](https://github.com/xoeye/eslint-config/issues/new) or create a [pull request](https://github.com/xoeye/eslint-config/pulls)
