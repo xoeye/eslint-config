@@ -2,6 +2,7 @@
 
 [![CircleCI](https://circleci.com/gh/xoeye/eslint-config.svg?style=svg)](https://circleci.com/gh/xoeye/eslint-config)
 ![License](https://img.shields.io/npm/l/@xoi/eslint-config-core.svg)
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v1.4%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
 
 
 A monorepo for ESLint configurations for projects by [XOi Technologies](https://xoi.io)
