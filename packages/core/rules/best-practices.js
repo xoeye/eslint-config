@@ -1,3 +1,7 @@
+/**
+ * These rules relate to better ways of doing things to help you avoid problems
+ * https://eslint.org/docs/rules/#best-practices
+ */
 module.exports = {
   rules: {
     // Enforce getter/setter pairs in objects

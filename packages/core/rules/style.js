@@ -1,3 +1,7 @@
+/**
+ * These rules relate to style guidelines, and are therefore quite subjective
+ * https://eslint.org/docs/rules/#stylistic-issues
+ */
 module.exports = {
   rules: {
     // Enforce line breaks after opening and before closing array brackets

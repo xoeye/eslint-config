@@ -1,3 +1,7 @@
+/**
+ * These rules relate to ES6, also known as ECMAScript 2015 and ES2015
+ * https://eslint.org/docs/rules/#ecmascript-6
+ */
 module.exports = {
   env: {
     es6: true

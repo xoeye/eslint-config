@@ -1,3 +1,7 @@
+/**
+ * These rules relate to variable declarations
+ * https://eslint.org/docs/rules/#variables
+ */
 module.exports = {
   rules: {
     // Require or disallow initialization in variable declarations
