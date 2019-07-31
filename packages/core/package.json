@@ -1,6 +1,6 @@
 {
   "name": "@xoi/eslint-config-core",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "Framework agnostic ESLint config maintained by XOi Technologies",
   "repository": {
     "type": "git",
@@ -33,7 +33,8 @@
     "babel-eslint": "^10.0.2",
     "eslint": "^6.1.0"
   },
-  "devDependencies": {
+  "devDependencies": {},
+  "dependencies": {
     "eslint-plugin-import": "^2.18.2"
   }
 }

@@ -4,7 +4,6 @@
  */
 module.exports = {
   plugins: [
-    '@xoi/eslint-config-react',
     'react-native'
   ],
   parserOptions: {
