@@ -6,7 +6,7 @@ module.exports = {
   rules: {
     // Require or disallow initialization in variable declarations
     // https://eslint.org/docs/rules/init-declarations
-    'init-declarations': '',
+    'init-declarations': 'off',
 
     // Disallow deleting variables
     // https://eslint.org/docs/rules/no-delete-var
