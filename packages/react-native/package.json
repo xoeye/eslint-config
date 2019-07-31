@@ -1,6 +1,6 @@
 {
   "name": "@xoi/eslint-config-react-native",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "description": "ESLint config for React Native apps by XOi Technologies",
   "repository": {
     "type": "git",
