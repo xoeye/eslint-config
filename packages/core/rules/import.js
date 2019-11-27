@@ -225,7 +225,6 @@ module.exports = {
     // Reports modules without any exports, or with unused exports
     // https://github.com/benmosher/eslint-plugin-import/blob/master/docs/rules/no-unused-modules.md
     'import/no-unused-modules': ['error', {
-      ignoreExports: [],
       missingExports: true,
       unusedExports: true,
     }],
