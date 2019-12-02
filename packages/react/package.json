@@ -1,6 +1,6 @@
 {
   "name": "@xoi/eslint-config-react",
-  "version": "2.0.5",
+  "version": "2.0.6",
   "description": "ESLint config for React apps by XOi Technologies",
   "author": "Matt Hamil <mhamil@xoi.io>",
   "license": "MIT",
@@ -30,7 +30,7 @@
     "node": ">= 8"
   },
   "dependencies": {
-    "@xoi/eslint-config-core": "^2.0.3",
+    "@xoi/eslint-config-core": "^2.0.4",
     "eslint-plugin-jsx-a11y": "^6.2.3",
     "eslint-plugin-react": "^7.14.3"
   },
