@@ -19,6 +19,21 @@ module.exports = {
       objectLiteralDuplicateProperties: false
     }
   },
+  settings: {
+    'import/resolver': {
+      node: {
+        extensions: ['.js', '.json']
+      }
+    },
+    'import/extensions': [
+      '.js',
+      '.jsx',
+    ],
+    'import/ignore': [
+      'node_modules',
+      '\\.(css|svg|json|jpg|jpeg|png)$',
+    ],
+  },
   rules: {
     // Require braces in arrow function body
     // https://eslint.org/docs/rules/arrow-body-style
