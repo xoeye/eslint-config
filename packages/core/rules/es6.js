@@ -6,6 +6,11 @@ module.exports = {
   env: {
     es6: true
   },
+  plugins: [
+    'import',
+    'babel'
+  ],
+  parser: 'babel-eslint',
   parserOptions: {
     ecmaVersion: 6,
     sourceType: 'module',
@@ -170,6 +175,15 @@ module.exports = {
 
     // Enforce spacing around the `*` in `yield*` expressions
     // https://eslint.org/docs/rules/yield-star-spacing
-    'yield-star-spacing': ['error', 'after']
+    'yield-star-spacing': ['error', 'after'],
+
+    // Under the strict mode, this keywords outside of classes or class-like objects might be undefined and raise a TypeError.
+    // https://eslint.org/docs/rules/no-invalid-this
+    'no-invalid-this': 'off',
+    'babel/no-invalid-this': 'error',
+
+    // Reports modules without any exports, or with unused exports
+    // https://github.com/benmosher/eslint-plugin-import/blob/master/docs/rules/no-unused-modules.md
+    'import/no-unused-modules': 'off'
   }
 };

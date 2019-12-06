@@ -12,7 +12,7 @@ module.exports = {
     sourceType: 'module'
   },
   plugins: [
-    'import'
+    'import',
   ],
   settings: {
     'import/resolver': {
